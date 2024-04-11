@@ -1,0 +1,15 @@
+h1{
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h3{
+    font-size: 27px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(250, 247, 214);
+}
+p{
+    font-size: 18px;
+}
